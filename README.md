@@ -1,11 +1,11 @@
 
 # Hi! I'm Cláudia Pereira 👋
 
-### Senior Software Developer | Backend .NET | Technical Leadership
+### Senior Software Developer | Backend (.NET & Node.js) | Technical Leadership
 
-I'm a Software Developer with 7+ years of experience in software development, specializing in backend development, system architecture, and technical leadership.
+I'm a Software Developer with 7+ years of experience specializing in backend development, system architecture, and technical leadership.
 
-Throughout my career, I've worked on developing and maintaining enterprise applications, designing RESTful APIs, improving software architecture, and leading technical initiatives. I have a strong focus on clean code, software quality, security, and maintainable solutions.
+Throughout my career, I've built and maintained enterprise applications, designed RESTful APIs, evolved system architectures, and led technical initiatives, always prioritizing clean code, security, and long-term maintainability.
 
 I enjoy solving complex problems, exploring new technologies, and continuously improving my technical skills.
 
