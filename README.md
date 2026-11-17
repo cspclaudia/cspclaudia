@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**cspclaudia/cspclaudia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! I'm Cláudia Pereira 👋
 
-Here are some ideas to get you started:
+### Senior Software Developer | Backend .NET | Technical Leadership
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Developer with 7+ years of experience in software development, specializing in backend development, system architecture, and technical leadership.
+
+Throughout my career, I've worked on developing and maintaining enterprise applications, designing RESTful APIs, improving software architecture, and leading technical initiatives. I have a strong focus on clean code, software quality, security, and maintainable solutions.
+
+I enjoy solving complex problems, exploring new technologies, and continuously improving my technical skills.
+
+---
+
+### 🛠️ Technical Skills
+
+- **Languages:** C#, JavaScript, TypeScript, Python
+- **Backend:** .NET, ASP.NET, Node.js, REST APIs
+- **Databases:** SQL Server, PostgreSQL, MySQL, Oracle, MongoDB
+- **Architecture:** Microservices, DDD, SOLID, Clean Architecture, Design Patterns
+- **Messaging & Caching:** RabbitMQ, Redis
+- **Cloud & DevOps:** Microsoft Azure, Azure DevOps, Docker, CI/CD, Git
+- **Methodologies:** Scrum, Kanban, XP
+
+---
+
+### 🎓 Education
+
+- MBA in Process Management and Agile Methodologies
+- Postgraduate Degree in Information Security
+- Project Management Leadership Course
+- Bachelor's Degree in Information Systems
+- Bachelor's Degree in Civil Engineering
+
+---
+
+### 📫 Connect with me
+
+- [LinkedIn](https://linkedin.com/in/cspclaudia)
